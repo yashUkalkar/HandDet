@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>84.jpg</filename>
+	<path>C:\#Projects\HandDet new data\data\train\images\84.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>388</xmin>
+			<ymin>261</ymin>
+			<xmax>462</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>23</xmin>
+			<ymin>220</ymin>
+			<xmax>97</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Hand__128.jpg</filename>
+	<path>E:\HandDet-main\HandDet\images\Hand__128.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>350</width>
+		<height>196</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>59</ymin>
+			<xmax>103</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

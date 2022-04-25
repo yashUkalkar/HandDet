@@ -1,0 +1,38 @@
+<annotation>
+	<folder>images</folder>
+	<filename>260.jpg</filename>
+	<path>C:\#Projects\HandDet new data\data\train\images\260.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>480</width>
+		<height>360</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>198</ymin>
+			<xmax>343</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>hand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>197</xmin>
+			<ymin>179</ymin>
+			<xmax>223</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>
